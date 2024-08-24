@@ -1,0 +1,41 @@
+{
+ "email": "player.com",
+ "password": "123",
+ "challanges": [
+  {
+   "name": "plank",
+   "done": true,
+   "path": null
+  },
+  {
+   "name": "push up",
+   "done": false,
+   "path": null
+  },
+  {
+   "name": "speed",
+   "done": false,
+   "path": null
+  },
+  {
+   "name": "juggling",
+   "done": false,
+   "path": null
+  },
+  {
+   "name": "jump hight",
+   "done": false,
+   "path": null
+  },
+  {
+   "name": "shooting power",
+   "done": false,
+   "path": null
+  },
+  {
+   "name": "shooting accuracy",
+   "done": false,
+   "path": null
+  }
+ ]
+}
